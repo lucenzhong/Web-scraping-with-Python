@@ -2,7 +2,7 @@
 """
 Created on Sun Apr 29 23:08:13 2018
 
-@author: dy-d
+@author: lucen zhong
 """
 import requests
 import bs4
